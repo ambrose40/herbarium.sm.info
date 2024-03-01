@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Полушниковые - Isoëtopsida</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The Isoetopsida is a class of Lycopodiophyta. All extant species belong to the genus Selaginella in the order Selaginellales or to the genus Isoetes in the order Isoetales. In the past, members of this group sometimes have been placed in the classes Isoetopsida, Selaginellopsida, or Lycopodiopsida. There are c. 700 species of Selaginella and 140-150 species of Isoetes, with a cosmopolitan distribution, but often scarce to rare. Some botanists split Isoetes by separating two South American species into the genus Stylites</description>
+        <jalbum:absolutePath>https://herbariuminfo.netlify.app/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Isoetopsida/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbariuminfo.netlify.app/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Isoetopsida/%D0%A1%D0%B5%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%B5%D0%BB%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Selaginellales/album.rss" title="Селагинелловые - Selaginellales" thumbnail="https://herbariuminfo.netlify.app/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Isoetopsida/%D0%A1%D0%B5%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%B5%D0%BB%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Selaginellales/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Selaginellaceae/%D0%A1%D0%B5%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%B5%D0%BB%D0%BB%D0%B0%20%D0%92%D0%B8%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20-%20Selaginella%20willdenowii/thumbs/DSC06767.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>

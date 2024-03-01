@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Плауновые - Lycopodiales</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The classification of this group has been unsettled in recent years and a consensus has yet to emerge. Older classifications took a very broad definition of the genus Lycopodium that included virtually all the species of Lycopodiales. The trend in recent years has been to define Lycopodium more narrowly and to classify the other species into several genera, an arrangement that has been supported by both morphological and molecular data and adopted in numerous revisions and flora treatments. Starting from the four genera accepted by Øllgaard, a study based on chloroplast DNA produced the cladogram shown below (reproduced here to genus level only), confirming the monophyly of the four genera, and their distance from Isoetes.</description>
+        <jalbum:absolutePath>https://herbariuminfo.netlify.app/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiopsida/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiales/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbariuminfo.netlify.app/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiopsida/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiales/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiaceae/album.rss" title="Плауновые - Lycopodiaceae" thumbnail="https://herbariuminfo.netlify.app/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiopsida/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiales/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Lycopodiaceae/%D0%9F%D0%BB%D0%B0%D1%83%D0%BD%20%D0%B3%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B8%20-%20Lycopodium%20annotinum/thumbs/DSC03717.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>

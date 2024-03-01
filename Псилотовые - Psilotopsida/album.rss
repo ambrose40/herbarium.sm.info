@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Псилотовые - Psilotopsida</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>Psilotopsida is a class of ferns or fern-like plants, considered to be one of the three classes of eusporangiate ferns. It should not be confused with the obsolete class Psilophytopsida. As circumscribed by Smith et al., 2006, Psilotopsida contains two families, Psilotaceae and Ophioglossaceae, placed in orders Psilotales and Ophioglossales, respectively. The affinities of these two groups have long been unclear and a close relationship between them has only recently been confirmed through molecular systematic studies. Some studies show that Psilotopsida is the sister-group to all other ferns (including Marattiaceae and Equisetaceae), but others indicate that Equisetaceae is more basal.</description>
+        <jalbum:absolutePath>https://herbariuminfo.netlify.app/%D0%9F%D1%81%D0%B8%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Psilotopsida/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbariuminfo.netlify.app/%D0%9F%D1%81%D0%B8%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Psilotopsida/%D0%A3%D0%B6%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Ophioglossales/album.rss" title="Ужовниковые - Ophioglossales" thumbnail="https://herbariuminfo.netlify.app/%D0%9F%D1%81%D0%B8%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Psilotopsida/%D0%A3%D0%B6%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Ophioglossales/%D0%A3%D0%B6%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Ophioglossaceae/%D0%A3%D0%B6%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8%20-%20Ophioglossum%20vulgatum/thumbs/DSC03456.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
