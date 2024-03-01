@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Хвощёвые - Equisetales</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>Equisetales is an order of Equisetopsida, with only one living family, the Equisetaceae, containing the genus Equisetum (horsetails).
+In the molecular phylogenetic classification of Smith et al. in 2006, Equisetales, in its present circumscription, was held to be the sole member of class Equisetopsida. The linear sequence of Christenhusz et al. (2011), intended for compatibility with the classification of Chase and Reveal (2009) which placed all land plants in Equisetopsida, made it the sole member of subclass Equisetidae, equivalent to Smith&apos;s Equisetopsida. The placement of Equisetales in subclass Equisetidae has subsequently been followed in the classifications of Christenhusz and Chase (2014) and PPG I (2016).
+The fossil record includes additional extinct species in Equisetaceae and the extinct families Calamitaceae, Archaeocalamitaceae and Phyllothecaceae.</description>
+        <jalbum:absolutePath>https://herbariuminfo.netlify.app/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetopsida/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetales/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbariuminfo.netlify.app/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetopsida/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetales/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetaceae/album.rss" title="Хвощёвые - Equisetaceae" thumbnail="https://herbariuminfo.netlify.app/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetopsida/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetales/%D0%A5%D0%B2%D0%BE%D1%89%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Equisetaceae/%D0%A5%D0%B2%D0%BE%D1%89%20%D0%BF%D1%80%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B8%20-%20Equisetum%20fluviatile/thumbs/DSC02376.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
